@@ -9,7 +9,7 @@ body{
   
 .logo {
     width: auto;
-    height: 50px; 
+    height: 50px;
 }
 .nav-link:hover{
     color: orange;
@@ -37,7 +37,7 @@ body{
     margin-left: 1px;
 }
 .video-background{
-    background-color: #1efc30;
+    background-color: #e26dea;
     width: 100%;
     height: 100%;   
     padding: 10px;
@@ -54,7 +54,7 @@ body{
     object-fit: fill;
 }
 .home-title{
-    color: rgb(26, 238, 26);
+    color:#e667ef;
     font-weight: bold;
     text-shadow: 0 2px 8px rgba(44,62,80,0.15);
     font-family: "playfair display";
@@ -246,7 +246,7 @@ body{
 .career-subtitle{
     font-family: "Roboto";
     font-weight: bold;
-    color: rgb(15, 243, 255);
+    color: #ed46ff;
 }
 .career-description{
     font-family: "playfair display";
